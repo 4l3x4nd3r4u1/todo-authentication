@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(226, 232, 240);
+}
+
+.App {
+  width: min(100% - 1rem, 28rem);
+}
